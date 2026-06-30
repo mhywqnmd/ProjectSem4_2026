@@ -1,0 +1,8 @@
+{
+    "robot.car": "智能小车模块",
+    "robot.forward": "前进",
+    "robot.back": "后退",
+    "robot.left": "左转",
+    "robot.right": "右转",
+    "robot.speed": "速度(0~1023)"
+}

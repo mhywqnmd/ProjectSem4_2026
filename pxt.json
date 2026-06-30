@@ -1,0 +1,16 @@
+{
+  "name": "robot1",
+  "version": "0.0.1",
+  "description": "Microbit智能小车扩展 ProjectRobot1_2026",
+  "dependencies": {
+    "core": "*"
+  },
+  "files": [
+    "main.ts",
+    "Robot-strings.json"
+  ],
+  "target": "microbit",
+  "targetVersions": {
+    "microbit": "1.0.0"
+  }
+}
