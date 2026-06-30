@@ -1,2 +1,2 @@
 # ProjectRobot1_2026
-Microbit 智能小车MakeCode扩展项目
+Microbit MakeCode Extension Project for Smart Robot Car
